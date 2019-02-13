@@ -24,3 +24,17 @@ figcaption {
   text-align: center;
   font-size: 12px;
 }
+
+#featured-property p{
+  text-align:center;
+  width: 800px;
+}
+
+#details {
+  display:block;
+  float:left;
+}
+
+#details div {
+  width:25%;
+}
