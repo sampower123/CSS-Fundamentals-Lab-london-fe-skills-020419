@@ -38,4 +38,7 @@ figcaption {
   background: red;
 }
 
-
+#details div {
+  width:25%;
+  float:left;
+}
