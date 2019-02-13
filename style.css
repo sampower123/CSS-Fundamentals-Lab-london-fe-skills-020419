@@ -31,7 +31,7 @@ figcaption {
 }
 
 #details {
-  display:block;
+  display:inline-block;
   float:left;
 }
 
